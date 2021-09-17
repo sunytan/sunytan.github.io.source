@@ -1,7 +1,7 @@
 clone_depth: 5
 
 environment:
-  my_variable:
+  access_token:
     secure: j0ygRAtBG9N3bai7w7HYbPHXvrqWdB57N/bKdNjeF012Zab5TBlWkHCWY87089e9
 
 install:
